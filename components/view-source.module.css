@@ -14,8 +14,6 @@
  * limitations under the License.
  */
 
-/**
-
 .svg {
   z-index: 10;
   position: absolute;
@@ -66,5 +64,3 @@
     animation: wave 560ms ease-in-out;
   }
 }
-
-*/
