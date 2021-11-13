@@ -14,7 +14,6 @@
  * limitations under the License.
  */
 
-/*
 import styles from './view-source.module.css';
 import { REPO } from '@lib/constants';
 
@@ -39,5 +38,3 @@ export default function ViewSource() {
     </svg>
   );
 }
-
-*/
