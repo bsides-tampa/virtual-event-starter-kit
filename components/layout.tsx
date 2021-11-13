@@ -23,7 +23,7 @@ import styles from './layout.module.css';
 import Logo from './icons/icon-logo';
 import MobileMenu from './mobile-menu';
 import Footer, { HostedByVercel } from './footer';
-import ViewSource from '@components/view-source';
+/* import ViewSource from '@components/view-source'; */
 
 type Props = {
   children: React.ReactNode;
