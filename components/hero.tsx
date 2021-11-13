@@ -51,7 +51,7 @@ export default function Hero() {
         <div className={styles['description-separator']} />
         <p>
           <strong> | HYBRID CONFERENCE </strong><br>
-          <strong color='green'>Online Worldwide & In-Person at Stetson Law, Tampa
+          <strong color='green'>Online Worldwide & In-Person at Stetson Law, Tampa</strong>
         </p>
       </div>
     </div>
