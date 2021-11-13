@@ -33,7 +33,7 @@ export default function Hero() {
         {SITE_DESCRIPTION}
       </h2>
       <h1 className={cn(styleUtils.appear, styleUtils['appear-third'], styles.hero)}>
-        The 9th annual {BRAND_NAME}
+        9th annual {BRAND_NAME}
         <br className={styleUtils['show-on-desktop']} /> IT security conference
       </h1>
       <h2
@@ -51,6 +51,11 @@ export default function Hero() {
         <div className={styles['description-separator']} />
         <p>
           <strong>HYBRID</strong>
+        </p>
+        <p>In-Person @ Stetson Tampa</p>
+        <div className={styles['description-separator']} />
+        <p>
+          Online Worldwide
         </p>
       </div>
     </div>
