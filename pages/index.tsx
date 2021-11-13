@@ -24,7 +24,7 @@ import { META_DESCRIPTION } from '@lib/constants';
 export default function Conf() {
   const { query } = useRouter();
   const meta = {
-    title: 'BSides Tampa 2022 - Tampa Bay's largest & longest running IT security conference',
+    title: 'Demo - Virtual Event Starter Kit',
     description: META_DESCRIPTION
   };
   const ticketNumber = query.ticketNumber?.toString();
