@@ -33,8 +33,8 @@ export default function Hero() {
         {SITE_DESCRIPTION}
       </h2>
       <h1 className={cn(styleUtils.appear, styleUtils['appear-third'], styles.hero)}>
-        The first {BRAND_NAME}
-        <br className={styleUtils['show-on-desktop']} /> global user conference
+        The 9th annual {BRAND_NAME}
+        <br className={styleUtils['show-on-desktop']} /> IT security conference
       </h1>
       <h2
         className={cn(
