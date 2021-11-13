@@ -52,6 +52,8 @@ export default function Hero() {
         <p>
           <strong>HYBRID</strong>
         </p>
+        </div>
+      <div className={cn(styleUtils.appear, styleUtils['appear-fourth'], styles.info)}>
         <p>In-Person @ Stetson Tampa</p>
         <div className={styles['description-separator']} />
         <p>
