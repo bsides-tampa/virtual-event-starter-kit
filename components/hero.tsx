@@ -50,7 +50,8 @@ export default function Hero() {
         <p>{DATE}</p>
         <div className={styles['description-separator']} />
         <p>
-          <strong>Online</strong>
+          <strong> | HYBRID CONFERENCE </strong><br>
+          <strong color='green'>Online Worldwide & In-Person at Stetson Law, Tampa
         </p>
       </div>
     </div>
